@@ -1,0 +1,9 @@
+G:\shohag\calc\calc\bin\Debug\calc.exe.config
+G:\shohag\calc\calc\bin\Debug\calc.exe
+G:\shohag\calc\calc\bin\Debug\calc.pdb
+G:\shohag\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+G:\shohag\calc\calc\obj\Debug\calc.Form1.resources
+G:\shohag\calc\calc\obj\Debug\calc.Properties.Resources.resources
+G:\shohag\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+G:\shohag\calc\calc\obj\Debug\calc.exe
+G:\shohag\calc\calc\obj\Debug\calc.pdb
